@@ -29,8 +29,8 @@ body {
   z-index: 10;
   height: 30px;
   width: 30px;
-  top: 50%;
-  left: 50%;
+  top: 46%;
+  left: 46%;
   transform: translate(-50%, -50%);
   background-image: linear-gradient( 102.1deg,  rgba(96,221,142,1) 8.7%, rgba(24,138,141,1) 88.1% );
   border-radius: 50%;
@@ -441,6 +441,7 @@ canvas { display: block; }
     left: -55px;
   }
   .mosque{
-    left: 20%;
+    left: 22%;
+    top: 88%;
   }
 }
