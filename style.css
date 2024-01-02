@@ -197,7 +197,7 @@ body {
 
 .first-letter {
   font-family: yesteryear, cursive;
-  font-size: 3.5rem;
+  font-size: 3rem;
   background-image: linear-gradient( 102.1deg,  rgba(96,221,142,1) 8.7%, rgba(24,138,141,1) 88.1% );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -427,21 +427,22 @@ canvas { display: block; }
     right: 25px;
   }
   .small.top {
-    top: 3.5rem;
+    top: 2rem;
     left: -50px;
-    font-size: 25px;
+    font-size: 10px;
   }
   .big{
-    top: 130px;
+    top: 110px;
     left: -50px;
-    font-size: 3.3rem;
+    font-size: 2.5rem;
   }
   .small.bottom {
     bottom: 4rem;
     left: -55px;
+    font-weight: 600;
   }
   .mosque{
-    left: 22%;
+    left: 35%;
     top: 88%;
   }
 }
